@@ -1,0 +1,13 @@
+img.image {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.bg-img {
+    background-image: url('../images/project4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+}
